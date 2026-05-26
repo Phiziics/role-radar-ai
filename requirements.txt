@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+sentence-transformers
+chromadb
+streamlit
+fastapi
+uvicorn
+pydantic
+python-dotenv
+mlflow
+pytest
+beautifulsoup4
